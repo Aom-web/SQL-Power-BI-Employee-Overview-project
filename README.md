@@ -19,5 +19,8 @@ Download here (https://www.kaggle.com/datasets/desolution01/messy-employee-datas
 
 https://github.com/user-attachments/assets/5a2e7284-87fe-4ca8-9a9c-1b49281773e7
 
-
+## Insights from Dashboard
+1. The department that earns the highest is DevOps
+2. Majority of the employee are from california
+3. Majority of the employees joined in 2023
 
